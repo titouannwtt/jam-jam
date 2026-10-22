@@ -2,7 +2,7 @@
 
 Jam Jam finds the chords, the key and the tempo of a song. Drop an audio file or play into the microphone, and you get time-stamped chords out of 168 (14 chord qualities across 12 keys), the key, the tempo, the song structure and, when the song is sung, synced lyrics.
 
-**On the web, detection is free and unlimited in your browser, with no account.** Jam Jam also comes as an Android app and an iOS public beta.
+**Detection is free and unlimited: in your browser with no account, and in the Android app and the iOS public beta, where it runs on your phone.**
 
 <p align="center">
   <img src="docs/detection-file.png" alt="The Jam Jam detection page: drop an audio file and get the chord chart, the key and the tempo, or listen live from the microphone." width="720">
@@ -76,7 +76,7 @@ The chord models are based on [BTC-ISMIR19](https://github.com/jayg996/BTC-ISMIR
 | Android | Yes | Yes |
 | iOS (TestFlight beta) | No | Yes |
 
-The web detection is free and unlimited in the browser.
+Detection is free and unlimited in the browser and in the mobile apps, where the analysis runs on the device. Analysis on the Jam Jam server is faster and has a weekly allowance.
 
 ## Other tools
 
@@ -101,7 +101,7 @@ Open <https://jam-jam.org/app/detection>, drop an audio file (mp3, wav, m4a, ogg
 
 ### Is it free?
 
-On the web, chord, key and tempo detection is free and unlimited in your browser, with no account. The Android app and the iOS beta are free to install.
+Chord, key and tempo detection is free and unlimited: in your browser with no account, and in the Android app and the iOS beta, which are free to install and analyse on your phone.
 
 ### Does it work offline?
 
